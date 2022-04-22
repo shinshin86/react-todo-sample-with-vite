@@ -1,0 +1,50 @@
+// Vitest Snapshot v1
+
+exports[`Simple working test > Should render correctly 1`] = `
+<div
+  style="padding: 16px;"
+>
+  <h2>
+    Choose task filter
+  </h2>
+  <div>
+    <input
+      checked=""
+      defaultvalue="all"
+      id="all"
+      name="all"
+      type="checkbox"
+      value="all"
+    />
+    <label
+      for="all"
+    >
+      All
+    </label>
+    <input
+      defaultvalue="active"
+      id="active"
+      name="active"
+      type="checkbox"
+      value="active"
+    />
+    <label
+      for="Active"
+    >
+      Active
+    </label>
+    <input
+      defaultvalue="completed"
+      id="completed"
+      name="completed"
+      type="checkbox"
+      value="completed"
+    />
+    <label
+      for="completed"
+    >
+      Completed
+    </label>
+  </div>
+</div>
+`;

@@ -1,0 +1,15 @@
+// Vitest Snapshot v1
+
+exports[`Simple working test > Should render correctly 1`] = `
+<div>
+  <input
+    id="1"
+    type="checkbox"
+  />
+  <label
+    for="1"
+  >
+    testtext
+  </label>
+</div>
+`;
